@@ -1,2 +1,4 @@
 def return_true():
-    return False
+    return True
+# lib/not_none_functions.py
+
